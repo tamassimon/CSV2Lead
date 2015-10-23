@@ -1,0 +1,8 @@
+urls:
+   api: https://staging.api.intouchfollowup.com/v1
+   auth: https://staging.login.intouchfollowup.com/auth-webapp/oauth/token
+auth:        
+    clientid: developer_challenge
+    clientsecret: ifeelchallenged
+    granttype: client_credentials
+    scope: full_access
